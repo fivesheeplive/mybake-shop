@@ -1,0 +1,9 @@
+.container {
+  padding: 20px;
+}
+input {
+  display: block;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 5px;
+}

@@ -1,0 +1,5 @@
+<view class="container">
+  <input placeholder="预定日期" bindinput="onDateInput" />
+  <input placeholder="联系电话" bindinput="onPhoneInput" />
+  <button type="primary">提交预定</button>
+</view>

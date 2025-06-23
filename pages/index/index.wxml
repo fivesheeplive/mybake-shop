@@ -1,0 +1,4 @@
+<view class="container">
+  <button bindtap="goOrder">点单</button>
+  <button bindtap="goReservation">预定</button>
+</view>

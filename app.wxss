@@ -1,0 +1,4 @@
+/* Global styles */
+page {
+  font-family: sans-serif;
+}
